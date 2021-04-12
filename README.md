@@ -6,15 +6,15 @@
 
 Egy moziban egy nap többféle hosszúságú filmet vetítenek. Az egyszerűség kedvéért minden film egész szám(óra) hosszúságú. A moziba különböző szabadidővel rendelkező személyek járnak. Meg kell határozni egy napi program és az adott személyek szabadideje alapján, hogy hány darab egymásutáni filmre ülhet be egy személy, ahhoz, hogy a szabadidejét legjobban kitöltse.
 
-#Input  
+# Input  
 
 A bemenet első sorában a napi filmek száma, a második sorban mozinak a napi programja (a filmek időtartama egymás után), a harmadik sorban pedig a személyek szabadideje található.
 
-#Output  
+# Output  
 
 A kimeneten minden sorban személyenként a szabadidő szerint legjobban kiválasztott filmek indexei vannak.
 
-##Példa  
+## Példa  
 
 | Bemenet      | Kimenet
 | -----------  | -----------
