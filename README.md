@@ -4,7 +4,7 @@
 
 # A feladat  
 
-Egy moziban egy nap többféle hosszúságú filmet vetítenek. Az egyszerűség kedvéért minden film egész szám(óra) hosszúságú. A moziba különböző szabadidővel rendelkező személyek járnak. Meg kell határozni egy napi program és az adott személyek szabadideje alapján, hogy hány darab egymásutáni filmre ülhet be egy személy, ahhoz, hogy a szabadidejét legjobban kitöltse.
+Egy moziban egy nap többféle időtartamú filmet vetítenek. Az egyszerűség kedvéért minden film egész szám(óra) időtartamú. A moziba különböző szabadidővel rendelkező személyek járnak. Meg kell határozni egy napi program és az adott személyek szabadideje alapján, hogy hány darab egymásutáni filmre ülhet be egy személy, ahhoz, hogy a szabadidejét legjobban kitöltse.
 
 # Input  
 
