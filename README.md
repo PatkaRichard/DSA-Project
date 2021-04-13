@@ -18,7 +18,7 @@ A kimeneten minden sorban személyenként a szabadidő szerint legjobban kivála
 
 | Bemenet      | Kimenet
 | -----------  | -----------
-| 6 <br> 3 2 2 3 1 3 <br> 4 6 | [2,3] [3,4] [4,5] <br> [3,4,5]
+| 6 <br> 3 2 2 3 1 3 <br> 2 <br> 4 6 | [2,3] [3,4] [4,5] <br> [3,4,5]
 | - 6 darab film egy nap <br> - a filmek hossza 3, 2, 2, 3, 1, 3 óra <br> - 2 személy szabadideje 4 és 6 óra | - a megfelelő indexek
  
 
