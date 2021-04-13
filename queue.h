@@ -28,4 +28,6 @@ int print(QUEUE *myQueue);
 
 int Front_element(QUEUE *myQueue);
 
+void Destroy(QUEUE *myQueue);
+
 #endif //DSA_PROJECT_QUEUE_H

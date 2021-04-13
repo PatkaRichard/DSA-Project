@@ -40,16 +40,20 @@ int Get(QUEUE *myQueue){
 
 int GetSum(QUEUE *myQueue){
     int sum = 0;
-    for (int i = myQueue->front; i < myQueue->rear; ++i) {
+    for (int i = myQueue->front+1; i <= myQueue->rear; ++i) {
         sum += myQueue->items[i];
     }
     return sum;
 }
 
 int print(QUEUE *myQueue){
-    for (int i = myQueue->front; i < myQueue->rear; ++i) {
+    for (int i = myQueue->front+1; i <= myQueue->rear; ++i) {
         printf("%d ", myQueue->items[i]);
     }
+}
+
+void Destroy(QUEUE *myQueue){
+    free(myQueue);
 }
 
 int Front_element(QUEUE *myQueue){
