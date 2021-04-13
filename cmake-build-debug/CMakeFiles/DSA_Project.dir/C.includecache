@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Student/DSA_Projekt/DSA-Project/main.c
+stdio.h
+-
+stdlib.h
+-
+queue.h
+F:/Student/DSA_Projekt/DSA-Project/queue.h
+
+F:/Student/DSA_Projekt/DSA-Project/queue.c
+queue.h
+F:/Student/DSA_Projekt/DSA-Project/queue.h
+stdlib.h
+-
+stdio.h
+-
+
+F:/Student/DSA_Projekt/DSA-Project/queue.h
+

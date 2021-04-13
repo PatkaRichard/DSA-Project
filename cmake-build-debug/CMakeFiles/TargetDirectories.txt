@@ -1,0 +1,3 @@
+F:/Student/DSA_Projekt/DSA-Project/cmake-build-debug/CMakeFiles/DSA_Project.dir
+F:/Student/DSA_Projekt/DSA-Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Student/DSA_Projekt/DSA-Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
