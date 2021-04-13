@@ -12,7 +12,7 @@ A bemenet első sorában a napi filmek száma, a második sorban mozinak a napi 
 
 # Output  
 
-A kimeneten minden sorban személyenként a szabadidő szerint legjobban kiválasztott filmek indexei vannak.
+A kimeneten minden sorban személyenként a szabadidő szerint legjobban kiválasztott filmek hosszai vannak.
 
 ## Példa  
 
